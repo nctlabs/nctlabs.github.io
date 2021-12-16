@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## NCT Labs 홈페이지
 
 You can use the [editor on GitHub](https://github.com/nctlabs/nctlabs.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
